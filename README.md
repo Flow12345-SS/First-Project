@@ -1,1 +1,1 @@
-# First-Project
+# Sugar Cane Leaf Disease Detection
